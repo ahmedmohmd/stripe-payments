@@ -1,70 +1,52 @@
-# Getting Started with Create React App
+# Stripe Pyment
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is the Source Code [**Stripe Pyment**](https://stripe-payment-frontend.vercel.app/) Website.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+# Discreption
 
-### `npm start`
+[**Stripe Pyment**] Website is a Simple Page that semulat eOnline Pyment Process with Stripe ...etc.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+# App Features
 
-### `npm test`
+- Reponsive
+- Nice Design with Tailwind Framework
+- Speed & Good Performance
+- A lot of Extensions and Packages
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `npm run build`
+# Languages & Technologies
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Languages That used in this Web App:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="drawing" width="48" height="48"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS?retiredLocale=ar"><img src="https://img.icons8.com/color/48/000000/css3.png" alt="drawing" width="48" height="48"/></a>
+  <a href="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript--v2.png" width="48" height="48"/></a>
+</div>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Technolohies that used in this App:
 
-### `npm run eject`
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <a href="https://reactjs.org/"><img src="https://cdn-icons-png.flaticon.com/512/3334/3334886.png" alt="drawing" width="48" height="48"/></a>
+</div>
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### Other Libs & Packages:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- [**Styled Components**](https://styled-components.com/)
+- [**React Router**](https://v5.reactrouter.com/)
+- [**React Toatify**](https://www.npmjs.com/package/react-toastify)
+- [**Sweet Alert**](https://sweetalert.js.org/guides/)
+- [**React Icons**](https://react-icons.github.io/react-icons/)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+---
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+# Website Screenshot
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![Stripe](https://github.com/ahmedmohmd/stripe-payment-frontend/blob/main/app-screenshot.png?raw=true)
