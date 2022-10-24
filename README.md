@@ -1,19 +1,19 @@
-# Stripe Pyment
+# Stripe Payments
 
-This is the Source Code [**Stripe Pyment**](https://stripe-payment-frontend.vercel.app/) Website.
+This is the Source Code [**Stripe Payments**](https://strip3-payments.vercel.app/) Website.
 
 ---
 
-# Discreption
+# Description
 
-[**Stripe Pyment**] Website is a Simple Page that semulat eOnline Pyment Process with Stripe ...etc.
+[**Stripe Payments**] Website is a Simple Page that simulates Online Payments Process with Stripe ...etc.
 
 ---
 
 # App Features
 
-- Reponsive
-- Nice Design with Tailwind Framework
+- Responsive Design
+- Nice Design with Bootstrap Framework
 - Speed & Good Performance
 - A lot of Extensions and Packages
 
@@ -21,7 +21,7 @@ This is the Source Code [**Stripe Pyment**](https://stripe-payment-frontend.verc
 
 # Languages & Technologies
 
-### Languages That used in this Web App:
+### Languages used in this Web App:
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="drawing" width="48" height="48"/></a>
@@ -33,17 +33,16 @@ This is the Source Code [**Stripe Pyment**](https://stripe-payment-frontend.verc
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
   <a href="https://reactjs.org/"><img src="https://cdn-icons-png.flaticon.com/512/3334/3334886.png" alt="drawing" width="48" height="48"/></a>
+  <a href="https://getbootstrap.com/"><img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="48" height="48"/></a>
 </div>
 
 ### Other Libs & Packages:
 
 - [**Styled Components**](https://styled-components.com/)
 - [**React Router**](https://v5.reactrouter.com/)
-- [**React Toatify**](https://www.npmjs.com/package/react-toastify)
+- [**React Toastify**](https://www.npmjs.com/package/react-toastify)
 - [**Sweet Alert**](https://sweetalert.js.org/guides/)
 - [**React Icons**](https://react-icons.github.io/react-icons/)
-
-
 
 ---
 
