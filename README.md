@@ -6,7 +6,7 @@ This is the Source Code [**Stripe Payments**](https://strip3-payments.vercel.app
 
 # Description
 
-[**Stripe Payments**] Website is a Simple Page that simulates Online Payments Process with Stripe ...etc.
+**Stripe Payments** Website is a Simple Page that simulates Online Payments Process with Stripe ...etc.
 
 ---
 
